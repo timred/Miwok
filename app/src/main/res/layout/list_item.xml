@@ -7,11 +7,11 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/text_view_1"/>
+        android:id="@+id/miwok_name"/>
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/text_view_2"/>
+        android:id="@+id/default_name"/>
 
 </LinearLayout>
